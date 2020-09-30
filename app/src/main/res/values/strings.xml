@@ -13,6 +13,7 @@
     <string name="rating_title">Rate the following game from 1 to 5 stars!</string>
     <string name="rating_game">Game</string>
     <string name="rating_btn">To summary</string>
+    <string name="start_over">Start over</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
